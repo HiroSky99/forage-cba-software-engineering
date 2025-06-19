@@ -12,22 +12,35 @@ The virtual experience provides insight into the daily work of a software engine
 
 ## 🧠 Tasks Completed
 
-1. **Understanding the Feature Request**
+Task 1: **Create a Website**
 
-   - Analyzed a new feature from a product brief
-   - Identified key user stories and technical requirements
+- What you'll learn
+  - Fundamental principles of HTML and CSS for web development.
+  - Techniques for styling and customizing web pages.
+  - The process of structuring and linking CSS stylesheets to HTML documents.
+- What you'll do
+  - Build a simple web page titled “Tips for Financial Cybersecurity” using HTML and CSS, incorporating basic styling and customization.
 
-2. **Implementing the Feature**
+Task 2: **Financial Cybersecurity**
 
-   - Developed a Python-based solution
-   - Followed clean coding principles and applied modular design
+- What you'll learn
+  - The basics of financial cybersecurity and its importance.
+  - How to synthesize information into clear, actionable tips for non-technical audiences.
+  - Techniques for effectively communicating complex information on a webpage.
+- What you'll do
+  - Research and write a concise list of financial cybersecurity tips, then integrate this content into your existing webpage from Task 1.
 
-3. **Code Review**
+Task 3: **Stylize your Website**
 
-   - Reviewed a peer’s codebase
-   - Suggested improvements on readability, performance, and structure
+- What you'll learn
+  - How to apply and adhere to specific branding guidelines in web design.
+  - The importance of consistent visual identity through the use of color schemes and typography.
+  - Advanced CSS techniques for customizing web page aesthetics according to a brand's style guide.
+- What you'll do
+  - Customize your website’s appearance to align with Commonwealth Bank’s style guidelines, focusing on color scheme and font requirements.
+  - Experiment with design elements within the provided guidelines to create an engaging and brand-consistent user experience.
 
-4. **Testing**
+1. **Testing**
    - Wrote and executed unit tests using `unittest`
    - Performed edge case analysis and documented test results
 
@@ -60,7 +73,3 @@ This project is for educational and demonstration purposes only.
 ---
 
 > 🟢 _This virtual experience program is a simulation and not an official internship or employment opportunity._
-
-# Text resources
-
-## financial cybersecurity

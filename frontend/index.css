@@ -1,15 +1,35 @@
 * {
-  font-family: Arial;
+  font-family: "Gill Sans", "Lucida Sans", Arial, sans-serif;
+  color: #1e1e1e;
+  background-color: #ffffff;
+}
+
+body {
+  background-color: #ebebeb;
 }
 
 h1 {
-  color: Blue;
+  font-size: 70pt;
+  color: #1e1e1e;
+  background-color: #ffcc00;
+  padding: 20px;
+  text-align: center;
+}
 
-  font-size: 36px;
+h2 {
+  font-size: 38pt;
+  color: #1e1e1e;
+  margin-top: 30px;
 }
 
 p {
   font-size: 18px;
+  color: #1e1e1e;
+  line-height: 1.6;
+}
 
-  color: Gray;
+.black-section {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 20px;
 }
