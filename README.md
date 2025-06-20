@@ -73,3 +73,32 @@ This project is for educational and demonstration purposes only.
 ---
 
 > 🟢 _This virtual experience program is a simulation and not an official internship or employment opportunity._
+
+# Resume Snippet
+
+> Take your updated resume and apply for **Jobs**, **Programs**, **Events** and **Talent Networks**.
+
+**Commonwealth Bank Introduction to Software Engineering Job Simulation on Forage - 2025 年 6 月**
+
+- Completed a job simulation involving web development and cybersecurity for
+  the Commonwealth Bank Software Engineering Program.
+- Developed proficiency in HTML and CSS, leveraging these languages to create
+  and style a responsive web page adhering to specific branding guidelines.
+- Acquired foundational knowledge in financial cybersecurity principles,
+  synthesizing complex information into clear, actionable advice for enhancing
+  client security.
+- Explored web hosting security measures, drafting a comprehensive proposal on
+  secure hosting practices to accommodate future website expansions and protect
+  against potential cyber threats.
+
+# Interview Tip
+
+> In a typical interview you’ll be asked “why are you interested in this role?” or “why are you interested in working at our company?”. Use this interview tip to explain why you want the job.
+
+**“Why are you interested in this role?”**
+
+I recently participated in Commonwealth Bank's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a Software Engineering team at Commonwealth Bank.
+
+I worked on a project to build and secure a website that provides financial cybersecurity tips for bank clients. I practiced using HTML, CSS, and security best practices, and built my web development and cybersecurity skills in a real-world context.
+
+Doing this program confirmed that I really enjoy working on enhancing user security and designing accessible, secure web solutions, and I'm excited to apply these skills on a Software Engineering team at a company like Commonwealth Bank.
